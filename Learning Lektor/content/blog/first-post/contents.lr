@@ -2,24 +2,24 @@ title: Hallo Lektor
 ---
 pub_date: 2017-01-17
 ---
-author: admin
+author: Jörg Kantel
 ---
 body:
 
 Kann man das nicht im Editor bearbeiten? Ich hasse Editieren im Browser[^1].
 
-[^1] Fußnoten sind das Salz in der Suppe.
+[^1] Also: Editieren im Editor geht. Fußnoten offensichtlich (noch?) nicht.
 
 Mein bevorzugter Editor ist [TextMate](https://macromates.com/).
 
 Aber erst einmal schauen, was das Teil alles kann.
 
 - [ ] Todo-Listen?
-- [x] Auch mit Häkchen?
+- [√] Auch mit Häkchen?
 
 Neee!
 
-!    Das soll angeblich gehen …
+!!!! Das soll angeblich gehen …
 
 **Also**: Editieren im Editor geht, alles andere erst einmal nicht. Vor allem die Live-Vorschau braucht ein Reload im Browser.
 
